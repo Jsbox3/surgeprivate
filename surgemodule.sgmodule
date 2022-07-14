@@ -1,5 +1,5 @@
 #!name=网络信息
-#!desc=网络ip信息
+#!desc=检测节点的IP信息、运营商以及所在地
 [Panel]
 #节点查询
 节点监测 = script-name=节点检测, title=节点检测, content=请刷新, update-interval=60
